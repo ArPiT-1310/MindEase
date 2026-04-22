@@ -1,0 +1,4 @@
+# Frontend (if you later connect Vite/React)
+node_modules/
+dist/
+*.lock
